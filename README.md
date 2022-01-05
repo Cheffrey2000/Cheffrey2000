@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Flatiron School as an interview coach with the Data Science Team
+- 🔭 I’m currently working for Flatiron School as a curriculum developer on the Data Science Team
 - 🌱 I’m currently learning Ruby through the Flatiron School Software Engineering course
 - 👯 I’m looking to collaborate on anything of interest
 - 🤔 I’m looking for help with ...
